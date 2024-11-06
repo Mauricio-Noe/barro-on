@@ -25,7 +25,7 @@
 ## Descripción del proyecto
 ### Diseño de interfaz
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<p align="justify">Barro.on es más que una simple comunidad de artesanos; es un testimonio del poder de la tecnología moderna y la creatividad humana. Nuestra plataforma de comercio electrónico, meticulosamente diseñada con <b>Figma</b>, es el resultado de un proceso cuidadoso de visualización y perfeccionamiento de la experiencia del usuario.</p>
+<p align="justify">Barro.on es una comunidad de artesanos; es un testimonio del poder de la tecnología moderna y la creatividad humana. Nuestra plataforma de comercio electrónico, meticulosamente diseñada con <b>Figma</b>, es el resultado de un proceso cuidadoso de visualización y perfeccionamiento de la experiencia del usuario.</p>
 
 
 ### Tecnologías utilizadas
@@ -50,6 +50,9 @@ El equipo de desarrollo de esta plataforma esta compuesto por los siguientes int
 - Geovanni Daniel González Barrientos
   - [Sitio Web Personal](https://danielgonzalez.vercel.app/)
   - [LinkedIn](https://www.linkedin.com/in/gdaniel-gonzalezb/)
+- Mauricio Noe Guzman Martinez
+  - Correo Electrónico: gnoe8799@gmail.com
+  - [Perfil de LinkedIn](https://www.linkedin.com/in/noe-guzman-3403372b6/)
 - Eduardo López Murillo
   - Correo Electrónico: duarlo@yandex.com
   - [Perfil de LinkedIn](www.linkedin.com/in/duarlo)
@@ -62,9 +65,6 @@ El equipo de desarrollo de esta plataforma esta compuesto por los siguientes int
 - César Adair Aguilar Perfecto
   - Correo Electrónico: 
   - [Perfil de LinkedIn]()
-- Mauricio Noe Guzman Martinez
-  - Correo Electrónico: gnoe8799@gmail.com
-  - [Perfil de LinkedIn](https://www.linkedin.com/in/noe-guzman-3403372b6/)
 - Juan Pablo Piña Suárez
   - Correo Electrónico: juanpsuarez.pia@gmail.com
   - [Perfil de LinkedIn](https://www.linkedin.com/in/bcjuanpablo/)
